@@ -1,0 +1,32 @@
+aid: actinia-grass-gis
+name: Actinia Grass GIS
+description: "Actinia is an open source REST API for geographical data that uses GRASS GIS"
+url: https://actinia.mundialis.de/api_docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Actinia Grass GIS
+    description: "Actinia is an open source REST API for geographical data that uses GRASS GIS"
+    humanURL: https://actinia.mundialis.de/api_docs/
+    baseURL: https://actinia.mundialis.de/api_docs/
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://actinia.mundialis.de/api_docs/
+common:
+  - type: Website
+    url: https://actinia.mundialis.de/api_docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
