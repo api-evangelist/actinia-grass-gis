@@ -1,4 +1,16 @@
 aid: actinia-grass-gis
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/actinia-grass-gis.png
 name: Actinia Grass GIS
 description: "Actinia is an open source REST API for geographical data that uses GRASS GIS"
 url: https://actinia.mundialis.de/api_docs/
