@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/actinia-gr
 name: Actinia Grass GIS
 description: "Actinia is an open source REST API for geographical data that uses GRASS GIS"
 url: https://actinia.mundialis.de/api_docs/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
