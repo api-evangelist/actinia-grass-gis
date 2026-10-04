@@ -39,7 +39,6 @@ apis:
   - name: Actinia Grass GIS
     description: "Actinia is an open source REST API for geographical data that uses GRASS GIS"
     humanURL: https://actinia.mundialis.de/api_docs/
-    baseURL: https://actinia.mundialis.de/api_docs/
     tags:
       - Geocoding
     properties:
